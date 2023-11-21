@@ -1,0 +1,11 @@
+.main-container {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.main {
+  min-width: 600px;
+  width: 32.5vw;
+}
